@@ -19,7 +19,6 @@ I specialize in building sleek, high-performance systems that not only *look gre
 ## 🧬 Currently Working On
 
 - 🚀 A cross-platform **playlist converter** using Supabase & Firebase  
-- 📊 A Power BI dashboard for **digital behavior forecasting & ad engagement analysis**  
 - 🌐 Enhancing my **cyberpunk-themed portfolio** — because developers should look as sharp as their code
 
 ---
