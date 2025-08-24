@@ -34,7 +34,7 @@ Merging both? That’s *alchemy*.
 
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23f72585?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio-url)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23f72585?style=for-the-badge&logo=github&logoColor=white)](ttps://vrishin-portfolio.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrishin-reddy)  
 [![Resume](https://img.shields.io/badge/Resume-%231a1a1a?style=for-the-badge&logo=readthedocs&logoColor=white)](https://your-resume-url)
 
